@@ -1,0 +1,75 @@
+[
+    {
+      "class_name": "Little Picassos",
+      "short_bio": "Unleash your child's creativity through a variety of painting and drawing techniques.",
+      "photo_url": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
+      "enrolled_students": 15,
+      "instructor_name": "Emma Thompson",
+      "instructor_photo": "https://reg130.imperisoft.com/Pages/System/Image.aspx?id=271987&imgtype=2",
+      "instructor_email": "emma.thompson@example.com",
+      "available_seats": 20,
+      "price": "$50",
+      "id": 1
+    },
+    {
+      "class_name": "Crafty Creations",
+      "short_bio": "Let your child's imagination soar as they create unique crafts using various materials and techniques.",
+      "photo_url": "https://images.unsplash.com/photo-1452802447250-470a88ac82bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "enrolled_students": 12,
+      "instructor_name": "Daniel Johnson",
+      "instructor_photo": "https://reg130.imperisoft.com/Pages/System/Image.aspx?id=271987&imgtype=2",
+      "instructor_email": "daniel.johnson@example.com",
+      "available_seats": 18,
+      "price": "$40",
+      "id": 2
+    },
+    {
+      "class_name": "Artventure",
+      "short_bio": "Embark on an exciting artistic journey, exploring different art forms and styles with hands-on projects.",
+      "photo_url": "https://images.unsplash.com/photo-1585435656462-8abb322cbb68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+      "enrolled_students": 10,
+      "instructor_name": "Sophia Garcia",
+      "instructor_photo": "https://reg130.imperisoft.com/Pages/System/Image.aspx?id=271987&imgtype=2",
+      "instructor_email": "sophia.garcia@example.com",
+      "available_seats": 15,
+      "price": "$60",
+      "id": 3
+    },
+    {
+      "class_name": "Masterpiece Makers",
+      "short_bio": "Inspire your child to create their own masterpieces while learning from renowned artists and art movements.",
+      "photo_url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=386&q=80",
+      "enrolled_students": 8,
+      "instructor_name": "Oliver Wilson",
+      "instructor_photo": "https://reg130.imperisoft.com/Pages/System/Image.aspx?id=271987&imgtype=2",
+      "instructor_email": "oliver.wilson@example.com",
+      "available_seats": 10,
+      "price": "$55",
+      "id":4
+    },
+    {
+      "class_name": "Doodle Den",
+      "short_bio": "Encourage your child's love for doodling and sketching in a supportive and playful environment.",
+      "photo_url": "https://images.unsplash.com/photo-1607211851821-8be3cd6146f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "enrolled_students": 20,
+      "instructor_name": "Emily Davis",
+      "instructor_photo": "https://reg130.imperisoft.com/Pages/System/Image.aspx?id=271987&imgtype=2",
+      "instructor_email": "emily.davis@example.com",
+      "available_seats": 25,
+      "price": "$45",
+      "id": 5
+    },
+    {
+      "class_name": "Clay Play",
+      "short_bio": "Let your child mold, sculpt, and shape their imagination with the tactile joy of clay.",
+      "photo_url": "https://images.unsplash.com/photo-1613666587344-f3c08aac2594?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80",
+      "enrolled_students": 18,
+      "instructor_name": "William Turner",
+      "instructor_photo": "https://reg130.imperisoft.com/Pages/System/Image.aspx?id=271987&imgtype=2",
+      "instructor_email": "william.turner@example.com",
+      "available_seats": 22,
+      "price": "$50",
+      "id": 6
+    }
+  ]
+  
